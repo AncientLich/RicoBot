@@ -1,1 +1,6 @@
-hash.txt
+*.json
+*.db
+private/
+*pycache*
+debug.txt
+*.kate-swp
