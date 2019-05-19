@@ -22,12 +22,6 @@ from pathlib import Path
 # eventdest:
 #   (ally.ID, event.ID)
 
-# https://forum.smallgiantgames.com/t/titan-rosters/25305
-# titan:
-#   ID, name, color, life,
-# (la war viene memorizzata a parte, non nel DB ma viene notificata come evento) 
-#   titan None is a titan died
-
 
 
 class RicoDB:
